@@ -129,14 +129,3 @@ Authorization: Bearer <token>
 **GET** `/api/health`
 Returns server and DB connection status.
 
----
-
-## 📝 Notes
-
-* `401 Unauthorized` → Your token is invalid or expired.
-* `404 Not Found` → Endpoint not set up or path is incorrect.
-
-```
-
-Do you want me to also add a **Usage Example with Postman screenshots** section so others can test quickly?
-```
